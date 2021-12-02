@@ -20,6 +20,8 @@ This Repository contains the statistical analysis of Covid-19 in India. This was
 
 # Contributors
 
+(KJ Somaiya College of Engineering)
+
 - Manori Sangani
 - Aanchal Thaman
 
