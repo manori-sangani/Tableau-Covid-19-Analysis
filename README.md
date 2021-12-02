@@ -4,4 +4,4 @@ This Repository contains the statistical analysis of Covid-19 in India. This was
 
 # Analysis and Visualizations
 
-![Intro](https://github.com/manori-sangani/Tableau-Covid-19-Analysis/Images/Intro.jpeg?raw=true)
+![Intro](https://github.com/manori-sangani/Tableau-Covid-19-Analysis/blob/main/Images/Intro.jpeg)
